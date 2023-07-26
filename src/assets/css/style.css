@@ -1,0 +1,11 @@
+.search-mobile-trigger {
+  text-align: left !important;
+  color: #15a362 !important;
+  margin-bottom: 3px !important;
+}
+.search-mobile-trigger> svg{
+  stroke-width: 1 !important;
+}
+.app-nav .nav-link {
+  padding-left: 0rem !important;
+}
